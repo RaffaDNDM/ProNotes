@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">ProNotes</string>
+
+    <string name="title">Other projects</string>
+    <string name="author"><b>Author: Raffaele Di Nardo Di Maio</b> \n </string>
+    <string name="project_info">The code of this app is fully uploaded on Github. If you want to see the it, click the button: </string>
+    <string name="project_url">https://github.com/RaffaDNDM/Notes</string>
+
+    <string name="other_projects">There are other projects and programs made by Raffaele. You can see them by clicking on the following buttons: </string>
+    <string name="ml_button">Machine Learning</string>
+    <string name="ml_description">Machine Learning applications, programmed during the university course.</string>
+    <string name="ml_url">https://github.com/RaffaDNDM/Machine-Learning</string>
+
+    <string name="bigData_button">Big Data</string>
+    <string name="bigData_description">Applications of Big Data algorithm using Spark in Java.</string>
+    <string name="bigData_url">https://github.com/RaffaDNDM/Big-Data-Computing</string>
+
+    <string name="os_button">Operating Systems</string>
+    <string name="os_description">Holt graph analysis for deadlock in C and multithreading management (Semaphore, Hoare\'s Monitor, Java Monitor, Conditional Region) in Java.</string>
+    <string name="os_url">https://github.com/RaffaDNDM/Operating-Systems</string>
+
+    <string name="parallel_button">Knuth-Morris-Pratt</string>
+    <string name="parallel_description">Parallel implementation of Knuth-Morris-Pratt algorithm using MPI Protocol of C on Power 7.</string>
+    <string name="parallel_url">https://github.com/RaffaDNDM/Parallel-Knuth-Morris-Pratt</string>
+
+    <string name="cyber_button">Cyber Security</string>
+    <string name="cyber_description">Implementation of some cryptography, compression algorithms and solutions of some CTFs.</string>
+    <string name="cyber_url">https://github.com/RaffaDNDM/Cyber-Security</string>
+
+    <string name="clab_button">C lab</string>
+    <string name="clab_description">Some small exercises and simulation of electronic components shopping for a company.</string>
+    <string name="clab_url">https://github.com/RaffaDNDM/C-lab</string>
+
+    <string name="db_button">AutoChef</string>
+    <string name="db_description">Phases of creation of a Database, its implementation in PostgreSQL and simple APP layer in Java</string>
+    <string name="db_url">https://github.com/RaffaDNDM/AutoChef</string>
+
+    <string name="geometry_button">Coding</string>
+    <string name="geometry_description">Implementation of geometry algorithms.</string>
+    <string name="geometry_url">https://github.com/RaffaDNDM/Coding</string>
+
+    <string name="javaGUI_button">TicTacToe</string>
+    <string name="javaGUI_description">Implementation of TicTacToe game through Java GUI.</string>
+    <string name="javaGUI_url">https://github.com/RaffaDNDM/TicTacToe</string>
+
+    <string name="bot_button">QBot</string>
+    <string name="bot_description">Telegram bot for generation and decoding of QRcodes.</string>
+    <string name="bot_url">https://github.com/RaffaDNDM/Qbot</string>
+
+    <string name="raffadndm_url">https://github.com/RaffaDNDM/RaffaDNDM</string>
+    <string name="raffadndm_button">RaffaDNDM</string>
+    <string name="raffadndm_description">Android app that shows photos and music made by author</string>
+
+    <string name="learn">learn</string>
+    <string name="info">Info</string>
+    <string name="about">The app is designed as support for a developer (languages concepts, qrcode, cv). </string>
+
+
+    <string name="languages">Programming languages</string>
+    <string name="assembly">assembly</string>
+    <string name="c">c</string>
+    <string name="cpp">cpp</string>
+    <string name="csharp">csharp</string>
+    <string name="golang">golang</string>
+    <string name="java">java</string>
+    <string name="javascript">javascript</string>
+    <string name="kotlin">kotlin</string>
+    <string name="php">php</string>
+    <string name="python">python</string>
+    <string name="ruby">ruby</string>
+    <string name="rust">rust</string>
+    <string name="swift">swift</string>
+
+
+    <string name="courses">University courses</string>
+
+
+    <string name="assembly_title">Assembly</string>
+    <string name="c_title">C</string>
+    <string name="cpp_title">C++</string>
+    <string name="csharp_title">C#</string>
+    <string name="golang_title">GOlang</string>
+    <string name="java_title">Java</string>
+    <string name="javascript_title">Javascript</string>
+    <string name="kotlin_title">Kotlin</string>
+    <string name="php_title">PHP</string>
+    <string name="python_title">Python</string>
+    <string name="ruby_title">Ruby</string>
+    <string name="rust_title">Rust</string>
+    <string name="swift_title">Swift</string>
+
+    <string name="if_else"> <code> if(condition)  \n{  \n \t do something  \n }  \n else if(condition2)  \n{   \n\t do something  \n } \n else \n{   \n\t do something   \n}</code></string>
+
+    <string name="qr">QR Code</string>
+    <string name="github">Github</string>
+    <string name="cv">Curriculum Vitae</string>
+    <string name="or2_url">https://github.com/RaffaDNDM/Operational-Research-2</string>
+    <string name="or2_button">Operational Research 2</string>
+    <string name="or2_description">Travelling Salesman Problem solutions</string>
+
+</resources>
