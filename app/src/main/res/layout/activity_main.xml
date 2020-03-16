@@ -38,7 +38,7 @@
                 app:srcCompat="@drawable/qr" />
 
             <ImageView
-                android:id="@+id/cv"
+                android:id="@+id/curriculum_vitae"
                 android:layout_width="match_parent"
                 android:layout_height="210dp"
                 android:layout_below="@id/qr"
@@ -53,7 +53,7 @@
                 android:id="@+id/github"
                 android:layout_width="match_parent"
                 android:layout_height="230dp"
-                android:layout_below="@id/cv"
+                android:layout_below="@id/curriculum_vitae"
                 android:layout_marginTop="30dp"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentEnd="true"
